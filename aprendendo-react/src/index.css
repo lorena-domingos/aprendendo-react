@@ -22,3 +22,11 @@
 .card .card-title, .card-text {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+/* External CSS */
+
+.button {
+  margin: 10px;
+  padding: 5px 10px;
+  background-color: pink;
+}
